@@ -13,6 +13,8 @@ env/
 .env
 .env.local
 .env.*
+!.env_exemplo
+!.env.example
 
 # Jupyter
 .ipynb_checkpoints
@@ -43,3 +45,6 @@ output/
 
 # Ignore local secrets - keep .env_exemplo
 # Do not ignore .env_exemplo (example env)
+
+# Local documentation / internal logs
+doc/
