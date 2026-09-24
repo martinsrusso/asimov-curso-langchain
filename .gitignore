@@ -48,3 +48,7 @@ output/
 
 # Local documentation / internal logs
 doc/
+
+# LangGraph local runtime state
+.langgraph_api/
+*.pckl
