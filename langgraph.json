@@ -1,0 +1,8 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "agent": "src/md_01/agent.py:agente_asimov"
+    },
+    "env": ".env"
+    
+}
